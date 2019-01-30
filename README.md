@@ -1,3 +1,7 @@
+# Zróbmy sobie stronę, 
+
+ciekawe jak to będzie się prezentowało, przetestujmy!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/latay/strona/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
